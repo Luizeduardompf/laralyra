@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sons-engracados",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/claudecode/Documents/Claude/Projects/laralyra/SonsEngraçados/.claude/server.js"],
+      "port": 8743
+    }
+  ]
+}
