@@ -105,6 +105,15 @@ footer {
   text-align: center;
 }
 
+footer a {
+  color: var(--text-dim);
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: var(--text);
+}
+
 .toast {
   position: fixed;
   bottom: 24px;
