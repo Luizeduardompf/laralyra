@@ -2,7 +2,7 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 
-const ROOT = "/Users/claudecode/Documents/Claude/Projects/laralyra/SonsEngraçados";
+const ROOT = "/Users/claudecode/Documents/Claude/Projects/laralyra/sons-engracados";
 const PORT = 8743;
 
 const MIME = {
